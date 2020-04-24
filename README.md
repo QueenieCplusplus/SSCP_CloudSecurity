@@ -2,6 +2,10 @@
 
  BaaS, Backend as a Service
  
+ SLO
+ 
+ SLA
+ 
  # Data Storage & Transmission
  
  All the core of all cloud services are software tools with 3 functions:
