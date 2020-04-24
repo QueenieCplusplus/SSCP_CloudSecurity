@@ -2,9 +2,11 @@
 
  BaaS, Backend as a Service
  
- SLO
+ Cloud tech is the storage tech that level up according to 
  
- SLA
+ * SLO
+ 
+ * SLA
  
  # Data Storage & Transmission
  
