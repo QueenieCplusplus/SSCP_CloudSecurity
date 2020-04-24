@@ -4,9 +4,9 @@
  
  Cloud tech is the storage tech that level up according to requirements to meet on:
  
- * SLO
+ * SLO, Service Level Objective
  
- * SLA
+ * SLA, Service Level Agreement
  
  # Data Storage & Transmission
  
