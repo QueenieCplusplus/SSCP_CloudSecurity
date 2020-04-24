@@ -72,7 +72,7 @@
                                
                       Physical Storage Pool
 
-* Objective Storage, 目標（物件）存儲：
+* Objective Storage, 物件存儲：
 
 
                                HD
@@ -100,5 +100,13 @@
 # Clouds Platform, 雲端（服務）平台
 
 it is a framework to build upon to develop an app. it is cost-effective, and quick way than real backend team.
+
+ * DB Service:
+ 
+    Multi-Tenant, they can be access via API (direct call).
+ 
+ * Big Data Service:
+ 
+     Hadoop, a distributed file sys (Objective Storage).
 
 
