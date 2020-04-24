@@ -37,4 +37,37 @@
  * HDDs, Hard Disk Drive
  
     High Capacity
+    
+# Clouds Infra
+
+
+
+
+                  VM     VM     VM      VM     VM ...
+                               |
+
+                          Hypervisors
+
+                               |
+                               |
+
+                               HD
+                         Clients Server
+                            
+                               |
+                               |
+                   
+                   Volume Storage Controller
+
+               volume      volume     volume ...
+
+                               |
+                               |
+ 
+                       vStorage Controller
+            
+                               |
+                               |
+                               
+                      Physical Storage Pool
 
