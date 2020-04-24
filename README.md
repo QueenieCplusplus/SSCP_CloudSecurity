@@ -57,6 +57,8 @@
                                |
                    
                    “Volume Storage Controller”
+                   
+        a vitual hard disk drive (phisical array) that can be attached to VM instance  to be used to host data with a file system.
 
                volume      volume     volume ...
 
@@ -79,7 +81,9 @@
                                |
                                |
                    
-                   “Objective Storage Controller”
+                   “Objective Storage Controller” 
+                   
+              File Share Access Via API or Web Interface
 
                volume      volume     volume ...
 
