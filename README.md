@@ -8,6 +8,16 @@
  
  * SLA, Service Level Agreement
  
+    * Cost
+    
+    * Availability
+    
+    * Capacity
+    
+    * Functionality
+    
+    * Performance
+ 
  # Data Storage & Transmission
  
  All the core of all cloud services are software tools with 3 functions:
