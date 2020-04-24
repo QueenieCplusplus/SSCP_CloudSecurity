@@ -1,5 +1,6 @@
 # SSCP CloudSecurity
- BaaS
+
+ BaaS, Backend as a Service
  
  # Data Storage & Transmission
  
@@ -10,4 +11,6 @@
  * Network for transmiss data
  
  * Storage to preserve data
+ 
+ Cloud Storage is defined as a data storage that is made available as a Service via Network.
 
