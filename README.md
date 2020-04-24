@@ -40,8 +40,7 @@
     
 # Clouds Infra
 
-
-
+* vVolume Storage, 虛擬硬碟：
 
                   VM     VM     VM      VM     VM ...
                                |
@@ -57,7 +56,7 @@
                                |
                                |
                    
-                   Volume Storage Controller
+                   “Volume Storage Controller”
 
                volume      volume     volume ...
 
@@ -70,4 +69,28 @@
                                |
                                
                       Physical Storage Pool
+
+* Objective Storage, 目標（物件）存儲：
+
+
+                               HD
+                         Clients Server
+                            
+                               |
+                               |
+                   
+                   “Objective Storage Controller”
+
+               volume      volume     volume ...
+
+                               |
+                               |
+ 
+                       vStorage Controller
+            
+                               |
+                               |
+                               
+                      Physical Storage Pool
+
 
