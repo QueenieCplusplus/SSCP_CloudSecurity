@@ -2,7 +2,7 @@
 
  BaaS, Backend as a Service
  
- Cloud tech is the storage tech that level up according to 
+ Cloud tech is the storage tech that level up according to requirements to meet on:
  
  * SLO
  
