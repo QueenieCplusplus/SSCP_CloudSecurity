@@ -12,5 +12,5 @@
  
  * Storage to preserve data
  
- Cloud Storage is defined as a data storage that is made available as a Service via Network.
+ Cloud Storage is defined as a data storage that is made available as a Service via Network. Its related product includes "Physical Storage System, 雲端存儲系統"
 
