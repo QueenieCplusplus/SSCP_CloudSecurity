@@ -109,4 +109,7 @@ it is a framework to build upon to develop an app. it is cost-effective, and qui
  
      Hadoop, a distributed file sys (Objective Storage).
 
+# DLP, Data Loss Prevention
+
+ to be continued...
 
