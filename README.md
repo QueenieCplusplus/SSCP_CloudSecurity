@@ -38,7 +38,7 @@
  
     High Capacity
     
-# Clouds Infra
+# Clouds Infra, 雲端存儲基礎設施
 
 * vVolume Storage, 虛擬硬碟：
 
@@ -96,5 +96,9 @@
                                |
                                
                       Physical Storage Pool
+
+# Clouds Platform, 雲端（服務）平台
+
+it is a framework to build upon to develop an app. it is cost-effective, and quick way than real backend team.
 
 
